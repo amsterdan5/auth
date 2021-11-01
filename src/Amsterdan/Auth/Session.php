@@ -1,8 +1,6 @@
 <?php
 namespace Amsterdan\Auth;
 
-use Amsterdan\Crypt\Aes;
-
 class Session
 {
     // 要设置的信息

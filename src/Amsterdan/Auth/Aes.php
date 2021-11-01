@@ -1,5 +1,5 @@
 <?php
-namespace Amsterdan\Crypt;
+namespace Amsterdan\Auth;
 
 use phpseclib3\Crypt\AES as LibAes;
 

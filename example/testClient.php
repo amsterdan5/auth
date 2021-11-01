@@ -1,7 +1,7 @@
 <?php
 
 require_once dirname(__DIR__) . '/src/Amsterdan/Auth/Session.php';
-require_once dirname(__DIR__) . '/src/Amsterdan/Crypt/Aes.php';
+require_once dirname(__DIR__) . '/src/Amsterdan/Auth/Aes.php';
 
 require_once dirname(__DIR__) . '/vendor/autoload.php';
 
