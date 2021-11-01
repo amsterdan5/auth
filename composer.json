@@ -16,8 +16,8 @@
         "phpseclib/phpseclib": "3.0.10"
     },
     "autoload": {
-        "psr-4": {
-            "Amsterdan\\": "src/Amsterdan/"
+        "psr-0": {
+            "Amsterdan\\": "src/"
         }
     }
 }
